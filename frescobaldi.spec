@@ -2,7 +2,7 @@ Summary:	LilyPond sheet music text editor for KDE4
 Summary(pl.UTF-8):	Edytor arkuszy muzycznych LilyPond pod KDE4
 Name:		frescobaldi
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	GPL
 Group:		X11/Libraries
 Source0:	http://lilykde.googlecode.com/files/%{name}-%{version}.tar.gz
