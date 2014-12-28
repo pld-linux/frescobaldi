@@ -10,7 +10,7 @@ Source0:	http://lilykde.googlecode.com/files/%{name}-%{version}.tar.gz
 URL:		http://www.frescobaldi.org/
 BuildRequires:	ImageMagick-coder-png
 BuildRequires:	cmake >= 2.6.1-2
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	lilypond
 BuildRequires:	python-PyKDE4 >= 4.0.2
 BuildRequires:	rpm-pythonprov
